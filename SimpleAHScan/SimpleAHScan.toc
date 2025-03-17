@@ -1,0 +1,10 @@
+## Interface: 11404
+## Title: SimpleAHScan
+## Notes: A simple auction house scanning addon for Classic WoW
+## Author: GrazGrog
+## Version: 1.0
+## SavedVariables: SimpleAHScanData
+
+# Core files
+core.lua
+frames.xml
